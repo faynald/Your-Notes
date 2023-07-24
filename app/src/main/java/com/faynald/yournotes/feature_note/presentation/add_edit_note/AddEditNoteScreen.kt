@@ -154,6 +154,7 @@ fun AddEditNoteScreen(
                 singleLine = true,
                 textStyle = MaterialTheme.typography.h5
             )
+            Spacer(modifier = Modifier.height(8.dp))
             TransparentHintTextField(
                 text = contentState.text,
                 hint = contentState.hint,
