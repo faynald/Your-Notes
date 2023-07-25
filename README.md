@@ -32,4 +32,4 @@ To get started with the project, follow these steps:
 Feel free to explore the app or report any issues you encounter. Happy note-taking! 📝🚀
 
 # Preview
-<img src="https://github.com/faynald/Your-Notes/blob/master/demo.gif" width="200">
+<img src="https://github.com/faynald/Your-Notes/blob/main/demo.gif" width="200">
