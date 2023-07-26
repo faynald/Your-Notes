@@ -3,7 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/platform-Android-green)
 ![Static Badge](https://img.shields.io/badge/language-Kotlin-purple)
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/faynald/Your-Notes)
-![GitHub all releases](https://img.shields.io/github/downloads/faynald/Your-Notes/total)
+[![GitHub all releases](https://img.shields.io/github/downloads/faynald/Your-Notes/total)](https://github.com/faynald/Your-Notes/releases/tag/v1.0.0)
 
 A simple notes app that i made for learning clean architecture with jetpack compose. The app allows users to view a list of notes, add new notes, edit existing notes, delete notes, and sort them as well.
 
